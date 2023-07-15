@@ -89,7 +89,7 @@ a{
 #socialmediaIcons{
     position: absolute;
     margin-top: 10rem;
-    width: 100%;
+    right: 0px;
     height: 150%;
     text-align: right;
 }
