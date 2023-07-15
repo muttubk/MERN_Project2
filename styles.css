@@ -85,7 +85,17 @@ a{
 
 
 /*Social Media Icons*/
+#socialmediaIcons{
+    position: sticky;
+    right: 0px;
+    margin-top: 10rem;
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
 
+/*
 #socialmediaIcons{
     position: absolute;
     margin-top: 10rem;
@@ -98,16 +108,18 @@ a{
 .socialmediaIcons{
     position: sticky;
 }
+*/
 
 .socialmediaIcons>*{
     width: 3rem;
     height: 3rem;
 }
+/*
 
 #whatsapp{
     top: 4.2rem;
 }
-
+*/
 
 #whatsapp img{
     border: 2px solid black;
@@ -117,7 +129,7 @@ a{
     height: 2.5rem;
 }
 
-
+/*
 #facebook{
     top: 7.5rem;
 }
@@ -126,7 +138,7 @@ a{
     top: 10.8rem;
 }
 
-
+*/
 
 /*Body*/
 
