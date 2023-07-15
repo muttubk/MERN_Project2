@@ -93,27 +93,21 @@ a{
     height: 150%;
     text-align: right;
 }
-#iconsContainer{
-    display: flex;
-    flex-direcrion: column;
-    position: sticky;
-}
-/*
+
 .socialmediaIcons{
     position: sticky;
 }
-*/
 
 .socialmediaIcons>*{
     width: 3rem;
     height: 3rem;
 }
 
-/*
+
 #whatsapp{
     top: 4.2rem;
 }
-*/
+
 
 #whatsapp img{
     border: 2px solid black;
@@ -123,7 +117,7 @@ a{
     height: 2.5rem;
 }
 
-/*
+
 #facebook{
     top: 7.5rem;
 }
@@ -131,7 +125,7 @@ a{
 #twitter{
     top: 10.8rem;
 }
-*/
+
 
 /*Body*/
 
