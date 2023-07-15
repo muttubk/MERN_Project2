@@ -87,7 +87,7 @@ a{
 /*Social Media Icons*/
 .socialContainer{
     display:flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     position: sticky;
     top: 5rem;
     right: 0px;
@@ -98,6 +98,8 @@ a{
     width: 3.5rem;
     right: 0px;
     height: 12rem;
+    display: flex;
+    flex-direction: column-reverse;
 }
 
 /*
