@@ -92,15 +92,6 @@ a{
     top: 5rem;
     right: 0px;
 }
-#socialmediaIcons{
-    position: fixed;
-    margin-top: 10rem;
-    width: 3.5rem;
-    right: 0px;
-    height: 12rem;
-    display: flex;
-    flex-direction: column-reverse;
-}
 
 /*
 #socialmediaIcons{
