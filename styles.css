@@ -87,15 +87,16 @@ a{
 /*Social Media Icons*/
 
 #socialmediaIcons{
-    position: sticky;
+    position: absolute;
     margin-top: 10rem;
     right: 0px;
-/*    height: 150%; */
+    height: 150%;
     text-align: right;
 }
 #iconsContainer{
     display: flex;
     flex-direcrion: column;
+    position: sticky;
 }
 /*
 .socialmediaIcons{
