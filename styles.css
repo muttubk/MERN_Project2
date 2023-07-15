@@ -85,6 +85,22 @@ a{
 
 
 /*Social Media Icons*/
+.socialContainer{
+    display:flex;
+    flex-direction: column-reverse;
+    position: sticky;
+    top: 5rem;
+    right: 0px;
+}
+#socialmediaIcons{
+    position: fixed;
+    margin-top: 10rem;
+    width: 3.5rem;
+    right: 0px;
+    height: 12rem;
+}
+
+/*
 #socialmediaIcons{
     position: absolute;
     margin-top: 10rem;
@@ -97,15 +113,17 @@ a{
 .socialmediaIcons{
     position: sticky;
 }
-
+*/
 .socialmediaIcons>*{
     width: 3rem;
     height: 3rem;
 }
-
+/*
 #whatsapp{
     top: 4.2rem;
 }
+*/
+
 #whatsapp img{
     border: 2px solid black;
     padding: 0.13rem;
@@ -114,6 +132,7 @@ a{
     height: 2.5rem;
 }
 
+/*
 #facebook{
     top: 7.5rem;
 }
@@ -121,6 +140,8 @@ a{
 #twitter{
     top: 10.8rem;
 }
+*/
+
 
 /*Body*/
 
